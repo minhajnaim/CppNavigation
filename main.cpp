@@ -7,12 +7,12 @@ using namespace std;
 int main (void)
 {
 
-    cout << "hello gestarted." << endl << endl;
+    cout << " hello started." << endl << endl;
 //CPOIDataBase abc;
 //abc.addPoi(restaurant,"minhaj","hello",45,145);
 CNavigationSystem abc;
 
-abc.run();
+ abc.run();
 
 //CPOI kl(restaurant,"minhaj","hello",45,145);
 //kl.Print();
